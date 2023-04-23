@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Web and App
+🔭 I’m currently working on Flutter<br>💬 Ask me about Web and App
 
 
 ## 🌐 Socials:
