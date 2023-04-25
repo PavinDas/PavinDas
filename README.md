@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>💬 Ask me about Web and App
+🔭 I’m currently working on Flutter<br>💬 Ask me about Material and Cupertino
 
 
 ## 🌐 Socials:
