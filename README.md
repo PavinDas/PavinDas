@@ -57,7 +57,7 @@
 <p><a href="https://ko-fi.com/pavindas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pavindas" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavinDas&langs_count=8&theme=dracula" alt=PavinDas />
+<img align="left" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavinDas&langs_count=8&theme=dracula" alt=PavinDas />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=PavinDas&show_icons=true&locale=en&theme=dracula" alt="PavinDas" /></p>
 
