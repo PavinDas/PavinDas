@@ -11,7 +11,7 @@
 - 💬 Ask me about **Material & Cupertino**
 - 📫 <a href="https://pavindas.carrd.co">Click here to reach me</a>
 - 👨‍💻 <a href="https://github.com/PavinDas?tab=repositories">Click here to see all of my projects</a>
-- ⚡ Fun fact **I am a fashion photographer also 😂**
+- ⚡ Fun fact: **I am a fashion photographer 😂**
 - 📸 <a href="https://instagram.com/le_edwarebian">Click here to see my photography works</a>
 
 <div> <a href="https://twitter.com/pavin__das" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -52,6 +52,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
+
+<h3 align="left">Badge:</h3>
+
+![made-in-kunnamkulam](https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/kunnamkulam_optimized.svg)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/pavindas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pavindas" /></a></p><br><br>
