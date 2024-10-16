@@ -1,17 +1,17 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Pavin Das</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">PenTester</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PavinDas&label=Profile%20views&color=0e75b6&style=flat" alt="PavinDas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PavinDas&theme=dracula" alt="PavinDas" /></a> </p>
 
 - 🔭 I’m currently working on [ChatZon AI](https://github.com/PavinDas/ChatZonAI)
 - 👯 I’m looking to collaborate on [ChatZon AI](https://github.com/PavinDas/ChatZonAI)
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Automation**
 - 💬 Ask me about **Material & Cupertino**
 - 📫 <a href="https://pavindas.carrd.co">Click here to reach me</a>
 - 👨‍💻 <a href="https://github.com/PavinDas?tab=repositories">Click here to see all of my projects</a>
-- ⚡ Fun fact: **I am a fashion photographer 😂**
+- ⚡ Fun fact: **I quit Flutter 😂**
 - 📸 <a href="https://instagram.com/le_edwarebian">Click here to see my photography works</a>
 
 <div> <a href="https://twitter.com/pavin__das" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -52,10 +52,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
-
-<h3 align="left">Badge:</h3>
-
-![made-in-kunnamkulam](https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/kunnamkulam_optimized.svg)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/pavindas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pavindas" /></a></p><br><br>
