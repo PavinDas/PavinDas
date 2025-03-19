@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! I am Pavin</h1>
 
-<h3 align="left"> A Self Learned Cybersecurity Engineer</h3>
+<h3 align="left"></h3>
 
 ###
 
