@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🥇 TryHackMe
-[![tryHackMe](https://tryhackme-badges.s3.amazonaws.com/pavindas.png)]([Link URL](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1260374))
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/pavindas.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1260374)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PavinDas&limit=5&theme=radical&combine_all_yearly_contributions=true)
