@@ -167,7 +167,7 @@
 </table>
 
 <a href="https://pavindas.github.io/blog.html"><img src="assets/buttons/view-all-blogs.svg" alt="View all blogs" width="190"></a>
-<br><sub>Also on <a href="https://medium.com/@pavin-das">Medium</a></sub>
+<br>Also onㅤ<a href="https://medium.com/@pavin-das" style="font-size: 18px; color: #00ff5e;">Medium</a>
 
 <a id="github"></a>
 <h2 align="center"><img src="assets/headers/github.svg" alt="GitHub activity – $ git log --graph" width="700"></h2>
