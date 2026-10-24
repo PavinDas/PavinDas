@@ -1,0 +1,6 @@
+{"index":"https://pavindas.github.io/blog.html","medium":"https://medium.com/@pavin-das","base":"https://pavindas.github.io/blogs/",
+ "posts":[
+  {"slug":"cia-triad","title":"The CIA Triad","tag":"Cybersecurity Fundamentals"},
+  {"slug":"elk-stack","title":"ELK Stack Setup & Configuration","tag":"Logging · SIEM · Blue Team"},
+  {"slug":"soc-lab","title":"Building a Home SOC Lab","tag":"Wazuh · Shuffle · Detection"},
+  {"slug":"mr-robot","title":"Mr. Robot Walkthrough","tag":"CTF · Web Exploitation · Privilege Escalation"}]}

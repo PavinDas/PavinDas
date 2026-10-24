@@ -1,0 +1,409 @@
+[
+ {
+  "slug": "programming",
+  "title": "Programming & Scripting",
+  "items": [
+   {
+    "name": "Python",
+    "icon": "mono:Py",
+    "color": "#4b8bbe",
+    "url": "https://www.python.org",
+    "dev": "python/python-original",
+    "slug": "programming-python"
+   },
+   {
+    "name": "Bash",
+    "icon": "mono:Sh",
+    "color": "#4EAA25",
+    "url": "https://www.gnu.org/software/bash/",
+    "dev": "bash/bash-original",
+    "slug": "programming-bash"
+   },
+   {
+    "name": "JavaScript",
+    "icon": "mono:JS",
+    "color": "#f7df1e",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "dev": "javascript/javascript-original",
+    "slug": "programming-javascript"
+   },
+   {
+    "name": "Java",
+    "icon": "mono:Jv",
+    "color": "#f89820",
+    "url": "https://dev.java",
+    "dev": "java/java-original",
+    "slug": "programming-java"
+   },
+   {
+    "name": "C",
+    "icon": "mono:C",
+    "color": "#659ad2",
+    "url": "https://en.cppreference.com/w/c",
+    "dev": "c/c-original",
+    "slug": "programming-c"
+   },
+   {
+    "name": "HTML",
+    "icon": "mono:H5",
+    "color": "#e34f26",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "dev": "html5/html5-original",
+    "slug": "programming-html"
+   },
+   {
+    "name": "CSS",
+    "icon": "mono:C3",
+    "color": "#2b8fd6",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "dev": "css3/css3-original",
+    "slug": "programming-css"
+   },
+   {
+    "name": "Dart",
+    "icon": "mono:Dt",
+    "color": "#2aa4f4",
+    "url": "https://dart.dev",
+    "dev": "dart/dart-original",
+    "slug": "programming-dart"
+   }
+  ]
+ },
+ {
+  "slug": "offensive",
+  "title": "Offensive Security",
+  "items": [
+   {
+    "name": "BurpSuite",
+    "icon": "bug",
+    "color": "#ff6633",
+    "url": "https://portswigger.net/burp",
+    "si": "burpsuite",
+    "slug": "offensive-burpsuite"
+   },
+   {
+    "name": "Nmap",
+    "icon": "network",
+    "color": "#4EAA25",
+    "url": "https://nmap.org",
+    "slug": "offensive-nmap"
+   },
+   {
+    "name": "SQLmap",
+    "icon": "database",
+    "color": "#e67e22",
+    "url": "https://sqlmap.org",
+    "slug": "offensive-sqlmap"
+   },
+   {
+    "name": "ffuf",
+    "icon": "search",
+    "color": "#f1c40f",
+    "url": "https://github.com/ffuf/ffuf",
+    "slug": "offensive-ffuf"
+   },
+   {
+    "name": "Metasploit",
+    "icon": "bomb",
+    "color": "#9a9a9a",
+    "url": "https://www.metasploit.com",
+    "originalColor": "#525252",
+    "si": "metasploit",
+    "slug": "offensive-metasploit"
+   },
+   {
+    "name": "Wireshark",
+    "icon": "wave",
+    "color": "#00a1e0",
+    "url": "https://www.wireshark.org",
+    "si": "wireshark",
+    "slug": "offensive-wireshark"
+   },
+   {
+    "name": "OWASP ZAP",
+    "icon": "bolt",
+    "color": "#2fa4f5",
+    "url": "https://www.zaproxy.org",
+    "originalColor": "#005fa4",
+    "slug": "offensive-owasp-zap"
+   },
+   {
+    "name": "Frida",
+    "icon": "syringe",
+    "color": "#9b59b6",
+    "url": "https://frida.re",
+    "slug": "offensive-frida"
+   },
+   {
+    "name": "MobSF",
+    "icon": "shieldvirus",
+    "color": "#e74c3c",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "slug": "offensive-mobsf"
+   },
+   {
+    "name": "JADX",
+    "icon": "filecode",
+    "color": "#e67e22",
+    "url": "https://github.com/skylot/jadx",
+    "slug": "offensive-jadx"
+   },
+   {
+    "name": "APKTool",
+    "icon": "cube",
+    "color": "#2ecc71",
+    "url": "https://apktool.org",
+    "slug": "offensive-apktool"
+   },
+   {
+    "name": "Caido",
+    "icon": "bullseye",
+    "color": "#ff8533",
+    "url": "https://caido.io",
+    "slug": "offensive-caido"
+   },
+   {
+    "name": "Recon-ng",
+    "icon": "binoculars",
+    "color": "#95a5a6",
+    "url": "https://github.com/lanmaster53/recon-ng",
+    "slug": "offensive-recon-ng"
+   },
+   {
+    "name": "XSSer",
+    "icon": "code",
+    "color": "#e74c3c",
+    "url": "https://github.com/epsylon/xsser",
+    "slug": "offensive-xsser"
+   },
+   {
+    "name": "Jarsigner",
+    "icon": "signature",
+    "color": "#f1c40f",
+    "url": "https://docs.oracle.com/en/java/javase/21/docs/specs/man/jarsigner.html",
+    "slug": "offensive-jarsigner"
+   },
+   {
+    "name": "Tor",
+    "icon": "mask",
+    "color": "#7d4698",
+    "url": "https://www.torproject.org",
+    "si": "torproject",
+    "slug": "offensive-tor"
+   }
+  ]
+ },
+ {
+  "slug": "defensive",
+  "title": "Defensive Security",
+  "items": [
+   {
+    "name": "SIEM",
+    "icon": "pie",
+    "color": "#2ecc71",
+    "url": "https://en.wikipedia.org/wiki/Security_information_and_event_management",
+    "slug": "defensive-siem"
+   },
+   {
+    "name": "EDR/XDR",
+    "icon": "desktop",
+    "color": "#9b59b6",
+    "url": "https://en.wikipedia.org/wiki/Endpoint_detection_and_response",
+    "slug": "defensive-edr-xdr"
+   },
+   {
+    "name": "Firewall",
+    "icon": "fire",
+    "color": "#d35400",
+    "url": "https://en.wikipedia.org/wiki/Firewall_(computing)",
+    "slug": "defensive-firewall"
+   },
+   {
+    "name": "IDS/IPS",
+    "icon": "shieldhalf",
+    "color": "#e74c3c",
+    "url": "https://en.wikipedia.org/wiki/Intrusion_detection_system",
+    "slug": "defensive-ids-ips"
+   },
+   {
+    "name": "Malware Analysis",
+    "icon": "skull",
+    "color": "#c0392b",
+    "url": "https://en.wikipedia.org/wiki/Malware_analysis",
+    "slug": "defensive-malware-analysis"
+   },
+   {
+    "name": "VPN/Proxy",
+    "icon": "usersecret",
+    "color": "#7fa0c4",
+    "url": "https://en.wikipedia.org/wiki/Virtual_private_network",
+    "originalColor": "#34495e",
+    "slug": "defensive-vpn-proxy"
+   },
+   {
+    "name": "SOAR",
+    "icon": "gears",
+    "color": "#3498db",
+    "url": "https://en.wikipedia.org/wiki/Security_orchestration",
+    "slug": "defensive-soar"
+   }
+  ]
+ },
+ {
+  "slug": "tools",
+  "title": "Tools & Frameworks",
+  "items": [
+   {
+    "name": "OWASP Top 10",
+    "icon": "listol",
+    "color": "#3498db",
+    "url": "https://owasp.org/www-project-top-ten/",
+    "si": "owasp",
+    "slug": "tools-owasp-top-10"
+   },
+   {
+    "name": "CVE/CWE",
+    "icon": "warning",
+    "color": "#f1c40f",
+    "url": "https://www.cve.org",
+    "slug": "tools-cve-cwe"
+   },
+   {
+    "name": "CVSS",
+    "icon": "calc",
+    "color": "#3498db",
+    "url": "https://www.first.org/cvss/",
+    "slug": "tools-cvss"
+   },
+   {
+    "name": "Git",
+    "icon": "git",
+    "color": "#f05032",
+    "url": "https://git-scm.com",
+    "dev": "git/git-original",
+    "slug": "tools-git"
+   },
+   {
+    "name": "Github",
+    "icon": "github",
+    "color": "#ffffff",
+    "url": "https://github.com",
+    "dev": "github/github-original",
+    "slug": "tools-github"
+   },
+   {
+    "name": "ADB",
+    "icon": "terminal",
+    "color": "#2ecc71",
+    "url": "https://developer.android.com/tools/adb",
+    "slug": "tools-adb"
+   },
+   {
+    "name": "Android Studio",
+    "icon": "mono:As",
+    "color": "#3ddc84",
+    "url": "https://developer.android.com/studio",
+    "dev": "androidstudio/androidstudio-original",
+    "slug": "tools-android-studio"
+   },
+   {
+    "name": "Genymotion",
+    "icon": "mobile",
+    "color": "#e74c3c",
+    "url": "https://www.genymotion.com",
+    "slug": "tools-genymotion"
+   },
+   {
+    "name": "PostgreSQL",
+    "icon": "mono:Pg",
+    "color": "#6a9bd0",
+    "url": "https://www.postgresql.org",
+    "dev": "postgresql/postgresql-original",
+    "slug": "tools-postgresql"
+   },
+   {
+    "name": "MongoDB",
+    "icon": "leaf",
+    "color": "#4EAA25",
+    "url": "https://www.mongodb.com",
+    "dev": "mongodb/mongodb-original",
+    "slug": "tools-mongodb"
+   },
+   {
+    "name": "Flask",
+    "icon": "flask",
+    "color": "#ffffff",
+    "url": "https://flask.palletsprojects.com",
+    "dev": "flask/flask-original",
+    "slug": "tools-flask"
+   },
+   {
+    "name": "Firebase",
+    "icon": "firebase",
+    "color": "#ffa000",
+    "url": "https://firebase.google.com",
+    "dev": "firebase/firebase-original",
+    "slug": "tools-firebase"
+   },
+   {
+    "name": "Flutter",
+    "icon": "flutter",
+    "color": "#00a1e0",
+    "url": "https://flutter.dev",
+    "dev": "flutter/flutter-original",
+    "slug": "tools-flutter"
+   },
+   {
+    "name": "Jira",
+    "icon": "jira",
+    "color": "#2684ff",
+    "url": "https://www.atlassian.com/software/jira",
+    "dev": "jira/jira-original",
+    "slug": "tools-jira"
+   }
+  ]
+ },
+ {
+  "slug": "os",
+  "title": "Operating Systems",
+  "items": [
+   {
+    "name": "Linux",
+    "icon": "linux",
+    "color": "#fcc624",
+    "url": "https://www.kernel.org",
+    "dev": "linux/linux-original",
+    "slug": "os-linux"
+   },
+   {
+    "name": "Android",
+    "icon": "android",
+    "color": "#3ddc84",
+    "url": "https://www.android.com",
+    "dev": "android/android-original",
+    "slug": "os-android"
+   },
+   {
+    "name": "Windows",
+    "icon": "windows",
+    "color": "#00a4ef",
+    "url": "https://www.microsoft.com/windows",
+    "slug": "os-windows"
+   },
+   {
+    "name": "iOS",
+    "icon": "apple",
+    "color": "#a5b1c2",
+    "url": "https://www.apple.com/ios",
+    "slug": "os-ios"
+   },
+   {
+    "name": "Mac",
+    "icon": "apple",
+    "color": "#ffffff",
+    "url": "https://www.apple.com/macos",
+    "slug": "os-mac"
+   }
+  ]
+ }
+]

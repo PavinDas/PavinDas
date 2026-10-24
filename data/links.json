@@ -1,0 +1,15 @@
+{"site":"https://pavindas.github.io","email":"pavindas007@gmail.com","subject":"Security%20Testing%20Inquiry",
+ "cv":"https://github.com/PavinDas/PavinDas/releases/download/Resume/PavinDas.pdf","location":"Bengaluru, India","handle":"PavinDas",
+ "services":[
+  {"slug":"web-mobile-testing","title":"Web & Mobile App Testing","icon":"phone","text":"Manual and automated security testing for modern web and mobile apps."},
+  {"slug":"secure-code-review","title":"Secure Code Review","icon":"codesearch","text":"Identify insecure patterns before they reach production."},
+  {"slug":"vulnerability-assessment","title":"Vulnerability Assessment","icon":"shield","text":"End-to-end assessments with prioritized remediation steps."}],
+ "contacts":[
+  {"slug":"github","label":"GitHub","handle":"PavinDas","icon":"github","url":"https://github.com/PavinDas"},
+  {"slug":"email","label":"Email","handle":"pavindas007@gmail.com","icon":"mail","url":"mailto:pavindas007@gmail.com"},
+  {"slug":"linkedin","label":"LinkedIn","handle":"pavin-das","icon":"linkedin","url":"https://linkedin.com/in/pavin-das"},
+  {"slug":"medium","label":"Medium","handle":"@pavin-das","icon":"medium","url":"https://medium.com/@pavin-das"},
+  {"slug":"x","label":"X / Twitter","handle":"@pavin__das","icon":"x","url":"https://twitter.com/pavin__das"},
+  {"slug":"instagram","label":"Instagram","handle":"@pavin__das","icon":"instagram","url":"https://instagram.com/pavin__das"},
+  {"slug":"tryhackme","label":"TryHackMe","handle":"pavindas","icon":"flag","url":"https://tryhackme.com/p/pavindas"},
+  {"slug":"portfolio","label":"Portfolio","handle":"pavindas.github.io","icon":"globe","url":"https://pavindas.github.io"}]}
